@@ -2,9 +2,10 @@
 layout: default
 title: 3D modelling and the Museum’s ‘Do Not Touch’ policy
 author: Daniel Pett
+permalink: /3d-modelling
 ---
 
-This project is testing the use of 3D models and prints of the Fitzwilliam Museum’s collection to provide a tactile experience for visitors. Research will be completed on the impact of these interactive displays on the visitor perception and reaction to the Museum’s ‘Do Not Touch’ policy from August 2018 until July 2019. Internal funding from the Knowledge Transfer Facilitators pump priming scheme is supporting this project. 
+This project is testing the use of 3D models and prints of the Fitzwilliam Museum’s collection to provide a tactile experience for visitors. Research will be completed on the impact of these interactive displays on the visitor perception and reaction to the Museum’s ‘Do Not Touch’ policy from August 2018 until July 2019. Internal funding from the Knowledge Transfer Facilitators pump priming scheme is supporting this project.
 
 ## Project team
 
