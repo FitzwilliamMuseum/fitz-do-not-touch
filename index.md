@@ -5,19 +5,14 @@ author: Daniel Pett
 created: 2019-03-05
 ---
 
-This project is testing the use of 3D models and prints of the Fitzwilliam Museum’s collection to provide a tactile experience for visitors. Research will be completed on the impact of these interactive displays on the visitor perception and reaction to the Museum’s ‘Do Not Touch’ policy from August 2018 until July 2019. Internal funding from the Knowledge Transfer Facilitors pump priming scheme is supporting this project.
+This research project is looking at the effectiveness of different touching deterrent methods used for the collections on open display at The Fitzwilliam Museum.
 
-Project team
+It is understood within the conservation sector that touching can have a detrimental effect on materials and accelerate deterioration.  There is a lively and active discussion in the conservation and museum sector about what can be done to offer increased access to collections while not compromising conservation principles.
 
-Prinicipal Investigators: Jo Vine (Research Facilitator), Dan Pett (Head of Digital and IT) and Helena Rodwell (Assistant Conservator, Collections Care)
+There is much anecdotal evidence of which methods are more effective than others.  Further insight can be gained by looking at the frequency of touching, the type of visitor, the gallery environment, whether some types of collection are touched more than others (e.g. furniture, sculpture, religious) and the variety of deterrent methods already in use.
 
-Various departments of the Museum, including Learning and Collections, are key contributors to this project.
+Understanding the efficacy of deterrence methods would allow for a more informed approach to displaying objects.  Through this research, we hope to improve protection for the collections from wear & tear caused by touching, whilst maintaining curatorial integrity, visitor enjoyment and education.
 
+Helena Rodwell, Assistant Conservator (Collections Care) will be facilitating this project in order to gather knowledge from staff and volunteers, as well as obtain quantifiable data through observation in the galleries and engaging with visitors on the topic.
 
-
-Anticipated outputs and outcomes
-
-New relationships with sector-leading experts from industry, conservation policy, museums, galleries, archives, education, academia to scope the challenge of how to provide a tactile experience for visitors that does not damage the collections. These collaborations will be developed during 2019 and two workshops will provide opportunities for debate and interaction across disciplinary and sectoral boundaries.
-Evidence-based report for heritage organisations on if/how 3D models can lessen the risk of damage to collections and how audiences respond to new engagement methods, linked to existing work where 3D models and material samples are used as a tactile interface to museum collections for visitor enjoyment and education.
-3D models that can continue to be used as a handling collection, providing new opportunities for deeper learning and engagement and better understanding of audience needs.
-Researchers across University and University of Cambridge Museums develop - and use - new skills in 3D making.
+There may be volunteering opportunities within the scope of this project.  Any roles will be offered through the University of Cambridge Museums website.
