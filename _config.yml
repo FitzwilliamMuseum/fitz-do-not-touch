@@ -27,9 +27,9 @@ description: >-
 
 words_per_minute: 200
 
-baseurl: "/do-not-touch"
+baseurl: ""
 
-url: ""
+url: "do-not-touch.fitzmuseum.cam.ac.uk"
 
 twitter_username: fitzwilliam_uk
 
