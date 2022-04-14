@@ -1,14 +1,17 @@
 # The Do Not Touch project
 
-This repository will hold code for the Do Not Touch project.
+[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335)
+
+This repository holds code for the Do Not Touch project.
 
 ## To run locally
 
 * Install Jekyll on your machine following these [instructions](https://jekyllrb.com/docs/installation/)
 * Install Git on your machine following these [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-* Clone the code for this repository:
+* Clone the code for this repository:  
    `git clone https://github.com/FitzwilliamMuseum/do-not-touch.git do-not-touch`
-* Change to the directory and then run this command in terminal `jekyll serve`
+* Change to the directory and then run this command in terminal:  
+ `jekyll serve`
 
 ## Credits
 
